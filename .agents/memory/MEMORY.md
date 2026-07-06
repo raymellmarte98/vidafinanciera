@@ -1,0 +1,1 @@
+- [Orval zod-output config](orval-zod-config.md) — removing `schemas` + `workspace` from zod output prevents *Params name collisions; fix barrel manually too.
